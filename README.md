@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m ArianGhaderi!<br><br>🚀 Python-Developer | AI-Developer | Back-End Developer (Python)<br> <br>🔭 I’m currently working on Web-Developing<br>🌱 I’m currently learning Django , Database <br>💬 Ask me about Python & AI<br><br>📫 How to reach me<br>@arianghaderi05@gmail.com
+👋 Hi, I’m ArianGhaderi!<br><br>🚀 Python-Developer | AI-Developer | Back-End Developer (Python)<br> <br>🔭 I’m currently working on Web-Developing<br>🌱 I’m currently learning Django , Database <br>💬 Ask me about Python & AI<br><br>📫 How to reach me<br>arianghaderi05@gmail.com
 
 
 ## 🌐 Socials:
