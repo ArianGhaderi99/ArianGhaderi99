@@ -23,5 +23,3 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-
-<img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="150">
