@@ -1,4 +1,4 @@
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ArianGhaderi99)
+![Visitor Count](https://count.getloli.com/get/@ArianGhaderi99?theme=rule34)
 
 
 
