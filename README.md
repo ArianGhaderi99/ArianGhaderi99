@@ -1,6 +1,7 @@
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ArianGhaderi99)
 
-![Data Loading](https://media.giphy.com/media/WuVwvFwEGoYdC/giphy.gif)
+![GitHub Logo Animation](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/github-logo.gif)
+
 
 
 
