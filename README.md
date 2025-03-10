@@ -1,8 +1,6 @@
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ArianGhaderi99)
 
-### 🚀 Top Repositories
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ArianGhaderi99&repo=your-repo-name)](https://github.com/ArianGhaderi99/your-repo-name)
-
+![GitHub Logo](https://github.com/ArianGhaderi99/github-readme-stats/blob/master/src/assets/github-logo.svg)
 
 
 
