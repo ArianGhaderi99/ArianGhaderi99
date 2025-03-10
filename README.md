@@ -1,6 +1,7 @@
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ArianGhaderi99)
 
-![GitHub Logo](https://github.com/ArianGhaderi99/github-readme-stats/blob/master/src/assets/github-logo.svg)
+![Loading](https://media.giphy.com/media/xTkcEQz8z9dI6NA2SM/giphy.gif)
+
 
 
 
