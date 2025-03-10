@@ -1,7 +1,7 @@
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ArianGhaderi99)
 
-![Circle Animation](https://cdn.dribbble.com/users/3151062/screenshots/10370599/media/c270470f89c746f0a609fe649f10dffb.gif)
-[Visit My GitHub](https://github.com/ArianGhaderi99)
+![Loading Animation](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+
 
 
 
