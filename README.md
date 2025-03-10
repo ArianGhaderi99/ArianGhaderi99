@@ -1,6 +1,13 @@
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ArianGhaderi99)
 
-![Loading Animation](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+# Welcome to my GitHub Profile
+
+## Loading Animation
+
+![Loading Circle](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+
+*Explore my repositories below and enjoy!*
+
 
 
 
