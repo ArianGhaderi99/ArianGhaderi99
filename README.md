@@ -1,4 +1,4 @@
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ArianGhaderi99)
+![Visitor Count](https://img.shields.io/badge/Visitors-%E2%9C%94-#FF5733?style=flat-square&logo=github&logoColor=white&labelColor=black&color=FF5733&label=visits)
 
 
 
