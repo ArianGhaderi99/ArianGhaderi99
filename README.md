@@ -1,6 +1,7 @@
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ArianGhaderi99)
 
-![GitHub Logo Animation](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/github-logo.gif)
+![Python Logo Animation](https://media.giphy.com/media/3o6fJ3YZ9tkHYfr6h6/giphy.gif)
+
 
 
 
