@@ -1,4 +1,4 @@
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=ArianGhaderi99)
+https://komarev.com/ghpvc/?username=ArianGhaderi99&color=blue)
 
 
 
