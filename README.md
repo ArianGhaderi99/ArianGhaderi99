@@ -1,4 +1,5 @@
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ArianGhaderi99&count_bg=%23FF5733&title_bg=%23003366&icon=github.svg&icon_color=%23E7E7E7&edge_flat=true&title=)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ArianGhaderi99)
+
 
 
 
