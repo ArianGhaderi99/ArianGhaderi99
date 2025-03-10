@@ -1,6 +1,7 @@
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ArianGhaderi99)
 
-![Data Loading](https://raw.githubusercontent.com/ArianGhaderi99/github-profile-pic/master/data-loading.gif)
+![Moving Lines](https://cdn.dribbble.com/users/102183/screenshots/14821976/media/736724457f62b4e9485436a43f7a1c56.gif)
+
 
 
 
