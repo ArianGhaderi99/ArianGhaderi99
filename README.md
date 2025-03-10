@@ -1,6 +1,7 @@
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ArianGhaderi99)
 
-![Python Logo Animation](https://media.giphy.com/media/3o6fJ3YZ9tkHYfr6h6/giphy.gif)
+![GitHub Logo Animation](https://camo.githubusercontent.com/55a073cf3477b10d8e7c18b1fd2029779e1a5aabf77999885e5449b0a1ae0736/687474703a2f2f7261772e6769746875622e636f6d2f726168756c646b6a61696e2f6769746875622d70726f66696c652d726561646d652d67656e657261746f722f6d61737465722f7363722f696d616765732f6769746875622d6c6f676f2e676966)
+
 
 
 
