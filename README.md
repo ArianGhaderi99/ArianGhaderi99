@@ -1,4 +1,5 @@
-![Visitor Count](https://img.shields.io/badge/Visitors-%E2%9C%94-blue?style=flat-square&logo=github&logoColor=white&labelColor=black&color=blue&label=visits)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ArianGhaderi99)
+
 
 
 
