@@ -1,12 +1,13 @@
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ArianGhaderi99&count_bg=%23FF5733&icon=github.svg&icon_color=%23E7E7E7&title=)
+
+
+
 # 💫 About Me:
 👋 Hi, I’m ArianGhaderi!<br><br>🚀 Python-Developer | AI-Developer | Back-End Developer (Python)<br> <br>🔭 I’m currently working on Web-Developing<br>🌱 I’m currently learning Django , Database <br>💬 Ask me about Python & AI<br><br>📫 How to reach me<br>arianghaderi05@gmail.com
 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arian_ghaderi4) 
-
-
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ArianGhaderi99&count_bg=%23FF5733&title_bg=%23003366&icon=github.svg&icon_color=%23E7E7E7&edge_flat=true&title=visit)
 
 
 # 💻 Tech Stack:
