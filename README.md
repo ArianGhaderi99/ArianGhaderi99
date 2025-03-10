@@ -1,5 +1,8 @@
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ArianGhaderi99)
 
+<img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="150"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="150"> <img src="https://media.giphy.com/media/UWt0rhp21JgLwoeFQP/giphy.gif" width ="150"/> <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width ="150"/> 
+</p>
+
 # 💫 About Me:
 👋 Hi, I’m ArianGhaderi!<br><br>🚀 Python-Developer | AI-Developer | Back-End Developer (Python)<br> <br>🔭 I’m currently working on Web-Developing<br>🌱 I’m currently learning Django , Database <br>💬 Ask me about Python & AI<br><br>📫 How to reach me<br>arianghaderi05@gmail.com
 
