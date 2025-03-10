@@ -1,4 +1,4 @@
-![Visitor Count](https://count.getloli.com/get/@ArianGhaderi99?theme=shizuku)
+![Visitor Count](https://count.getloli.com/get/@ArianGhaderi99?theme=asoul)
 
 
 
