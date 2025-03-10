@@ -1,6 +1,6 @@
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ArianGhaderi99)
 
-![Loading](https://media.giphy.com/media/xTkcEQz8z9dI6NA2SM/giphy.gif)
+![Data Loading](https://media.giphy.com/media/WuVwvFwEGoYdC/giphy.gif)
 
 
 
