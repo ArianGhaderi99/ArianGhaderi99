@@ -1,4 +1,3 @@
-https://komarev.com/ghpvc/?username=ArianGhaderi99&color=blue)
 
 
 
