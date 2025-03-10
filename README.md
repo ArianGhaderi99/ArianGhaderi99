@@ -1,6 +1,8 @@
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ArianGhaderi99)
 
-![Moving Lines](https://cdn.dribbble.com/users/102183/screenshots/14821976/media/736724457f62b4e9485436a43f7a1c56.gif)
+![Circle Animation](https://cdn.dribbble.com/users/3151062/screenshots/10370599/media/c270470f89c746f0a609fe649f10dffb.gif)
+[Visit My GitHub](https://github.com/ArianGhaderi99)
+
 
 
 
