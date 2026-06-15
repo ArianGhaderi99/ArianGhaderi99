@@ -19,8 +19,15 @@
 <br><br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArianGhaderi99&hide_progress=true)
 
+## 📱 My Channel
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="YOUR_QR_CODE_IMAGE_URL" alt="QR Code" width="200" />
+  <br><br>
+  <b>Scan the QR Code to join my channel</b>
+</p>
+
+
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9,14,20&height=100&section=footer" width="100%"/>
 </div>
