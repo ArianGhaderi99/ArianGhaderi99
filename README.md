@@ -22,7 +22,7 @@
 ## 📱 My Channel
 
 <p align="center">
-  <img src="YOUR_QR_CODE_IMAGE_URL" alt="QR Code" width="200" />
+  <img src="https://github.com/ArianGhaderi99/ArianGhaderi99/blob/main/Qrcode.png" alt="QR Code" width="200" />
   <br><br>
   <b>Scan the QR Code to join my channel</b>
 </p>
