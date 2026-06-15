@@ -19,12 +19,11 @@
 <br><br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArianGhaderi99&hide_progress=true)
 
-## 📱 My Channel
+<h1 align="center">📱 Scan to Connect</h1>
 
 <p align="center">
   <img src="https://github.com/ArianGhaderi99/ArianGhaderi99/blob/main/Qrcode.png" alt="QR Code" width="400" height="400" />
-  <br><br>
-  <b>Scan the QR Code to join my channel</b>
+  <br>
 </p>
 
 
