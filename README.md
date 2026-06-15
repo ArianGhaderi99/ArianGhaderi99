@@ -13,7 +13,7 @@
 # 💻 Tech Stack:
 
 # 📊 GitHub Stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArianGhaderi99&show_icons=False&theme=gruvbox)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArianGhaderi99&show_icons=false&theme=gruvbox)
 <br><br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArianGhaderi99&hide_progress=true)
 
