@@ -1,5 +1,10 @@
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ArianGhaderi99)
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9,14,20&height=200&section=header&text=ArianGhaderi&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Solidity+Developer&descAlignY=60" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=627EEA&center=true&vCenter=true&width=700&lines=pragma+solidity+%5E0.8.0%3B;Building+trustless+systems+🔒;Building things on the internet" alt="Solidity Typing"/>
+</div>
+
 # 💫 About Me:
 👋 Hi, I’m Arian!<br><br>🚀 Python-Developer | AI-Developer | Back-End Developer (Python)<br> <br>🔭 I’m currently working on AI,Web-Developing<br>  <br>💬 Ask me about django,websites and Ai <br><br>📫 How to reach me<br>arianghaderi05@gmail.com
 ##
