@@ -13,7 +13,7 @@
 # 💻 Tech Stack:
 
 # 📊 GitHub Stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArianGhaderi99_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArianGhaderi99&show_icons=true&theme=transparent)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
