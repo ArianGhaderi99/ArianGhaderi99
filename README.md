@@ -2,8 +2,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9,14,20&height=200&section=header&text=My+Profile&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Welcom+to+My+Github&descAlignY=60" width="100%"/>
 </div>
 
+### 👁️ Views
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ArianGhaderi99)
-
+##
 
 # 💫 About Me:
 👋 Hi, I’m Arian!<br><br>🚀 AI-Developer | Back-End Developer (Python)<br> <br>🔭 I’m currently working on AI,Web-Developing<br>  <br>💬 Ask me about django,websites and Ai <br><br>📫 How to reach me<br>arianghaderi05@gmail.com
