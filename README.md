@@ -4,7 +4,6 @@
 
 ### 👁️ Views
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ArianGhaderi99)
-##
 
 # 💫 About Me:
 👋 Hi, I’m Arian!<br><br>🚀 AI-Developer | Back-End Developer (Python)<br> <br>🔭 I’m currently working on AI,Web-Developing<br>  <br>💬 Ask me about django,websites and Ai <br><br>📫 How to reach me<br>arianghaderi05@gmail.com
