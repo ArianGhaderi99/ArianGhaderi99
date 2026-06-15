@@ -18,8 +18,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArianGhaderi99&show_icons=True&theme=gruvbox&rank_icon=github)
 <br><br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArianGhaderi99&hide_progress=true)
-
-<h1 align="center">📱 Scan to Connect</h1>
+<br><br><br>
+<h1 align="center">📱 My Channel</h1>
 
 <p align="center">
   <img src="https://github.com/ArianGhaderi99/ArianGhaderi99/blob/main/Qrcode.png" alt="QR Code" width="400" height="400" />
