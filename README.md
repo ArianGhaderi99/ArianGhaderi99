@@ -22,7 +22,7 @@
 <h1 align="center">📱 My Channel</h1>
 
 <p align="center">
-  <img src="https://github.com/ArianGhaderi99/ArianGhaderi99/blob/main/Qrcode11.png" alt="QR Code" width="400" height="400" />
+  <img src="https://github.com/ArianGhaderi99/ArianGhaderi99/blob/main/Qrcode.png" alt="QR Code" width="400" height="400" />
   <br>
 </p>
 
