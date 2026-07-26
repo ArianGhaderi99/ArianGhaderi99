@@ -21,6 +21,8 @@
 
 https://ghstats.dev/api/card?username=ArianGhaderi99&theme=nord&show_ring=false
 
+![GitHub Stats Card](https://ghstats.dev/api/card?username=ArianGhaderi99)
+
 <br><br><br>
 <h1 align="center">📱 My Channel</h1>
 
