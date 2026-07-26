@@ -16,9 +16,11 @@
 
 # 📊 GitHub Stats:
 
-![GitHub Stats Card](https://ghstats.dev/api/card?username=ArianGhaderi99)
+![GitHub Stats Card](https://ghstats.dev/api/card?username=ArianGhaderi&show_ring=false)
+
+<br>
 #
-<br><br>
+<br>
 <h1 align="center">📱 My Channel</h1>
 
 <p align="center">
