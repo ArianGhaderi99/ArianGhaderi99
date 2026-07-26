@@ -18,6 +18,9 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArianGhaderi99&show_icons=True&theme=gruvbox&rank_icon=github)
 <br><br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArianGhaderi99&hide_progress=true)
+
+https://ghstats.dev/api/card?username=ArianGhaderi99&theme=nord&show_ring=false
+
 <br><br><br>
 <h1 align="center">📱 My Channel</h1>
 
